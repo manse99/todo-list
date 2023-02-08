@@ -3,3 +3,9 @@ provides functions to add tasks (add_task), complete tasks (complete_task),
 and list the tasks (list_tasks). The code runs in an infinite loop that repeatedly 
 prompts the user for a command and performs the corresponding action, 
 until the user enters the "exit" command.
+**************************************************************************************************
+
+Dependencies:
+
+Tkinter
+PiFonts
